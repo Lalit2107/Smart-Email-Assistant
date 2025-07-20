@@ -36,4 +36,19 @@ The Smart Email AI Assistant helps users write professional, friendly, or casual
 ---
 
 ## 📁 Project Structure
+  ```
+Smart-Email-Assistant/
+├── email-writer-sb/ ← Spring Boot backend
+│ ├── src/
+│ └── pom.xml
+├── email-writer-react/ ← React frontend
+│ ├── public/
+│ ├── src/
+│ └── package.json
+├── email-writer-ext/ ← Chrome Extension folder
+│ ├── manifest.json
+│ ├── content.css
+│ ├── content.js 
+└── README.md
+```
 
